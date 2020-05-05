@@ -5,7 +5,7 @@ author: Nico Vergauwen (@kyriediculous)
 type: Informational
 status: Proposed
 created: 2020-05-05
-discussions-to: <URL>
+discussions-to: https://en.wikipedia.org/wiki/Michael_Jordan
 requires (*optional): <LIP number(s)>
 replaces (*optional): <LIP number(s)>
 part-of (*optional): <LIP number(s)>
